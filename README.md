@@ -1,3 +1,5 @@
+추천시스템 프론트엔드(React 기반)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
